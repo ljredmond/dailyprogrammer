@@ -1,2 +1,2 @@
-# dailyprogrammer
+# dailyprogrammer [![Build Status](https://travis-ci.com/ljredmond/dailyprogrammer.svg?branch=master)](https://travis-ci.com/ljredmond/dailyprogrammer) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ljredmond_dailyprogrammer&metric=alert_status)](https://sonarcloud.io/dashboard?id=ljredmond_dailyprogrammer)
 Solutions to problems found on https://reddit.com/r/dailyprogrammer
