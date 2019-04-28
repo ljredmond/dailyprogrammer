@@ -1,3 +1,10 @@
 language: java
 sudo: false
-script: mvn clean verify
+
+addons:
+  sonarcloud:
+    organization: "ljredmond-github"
+
+script:
+  - mvn clean verify
+  - sonar-scanner
